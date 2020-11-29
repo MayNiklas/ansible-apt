@@ -1,2 +1,6 @@
 ---
 # defaults file for ansible-apt
+
+apt_packages:
+  - git
+  - htop
